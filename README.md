@@ -1,2 +1,2 @@
-# new
+# NEW
 Create a new branch
